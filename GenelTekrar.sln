@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrar", "GenelTekrar\GenelTekrar.csproj", "{A9635D65-AF2E-4CB4-8C90-F2CFF493F58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PistiOyunu", "PistiOyunu\PistiOyunu.csproj", "{5438C551-F4DE-492E-AC62-ED1B8DCED7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9635D65-AF2E-4CB4-8C90-F2CFF493F58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9635D65-AF2E-4CB4-8C90-F2CFF493F58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9635D65-AF2E-4CB4-8C90-F2CFF493F58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9635D65-AF2E-4CB4-8C90-F2CFF493F58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5438C551-F4DE-492E-AC62-ED1B8DCED7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5438C551-F4DE-492E-AC62-ED1B8DCED7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5438C551-F4DE-492E-AC62-ED1B8DCED7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5438C551-F4DE-492E-AC62-ED1B8DCED7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A618BA89-DAE7-4931-BA65-996A84A94145}
+	EndGlobalSection
+EndGlobal
